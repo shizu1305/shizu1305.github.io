@@ -262,6 +262,11 @@ h3 {
     width: 100%;
 }
 
+.article .content p {
+
+    font-size: 22px;
+}
+
 .article .content img {
     margin: 20px auto;
     text-align: center;
