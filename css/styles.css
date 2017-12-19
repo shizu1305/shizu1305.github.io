@@ -267,6 +267,7 @@ h3 {
     text-align: center;
     display: block;
     max-width: 100%;
+    width: 1000px;
 }
 
 span.image img{
