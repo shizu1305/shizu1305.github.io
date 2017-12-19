@@ -266,7 +266,6 @@ h3 {
     margin: 20px auto;
     text-align: center;
     display: block;
-    max-width: 100%;
     width: 1000px;
 }
 
@@ -340,6 +339,8 @@ span.image:before {
     width: 1200px;
     height: 400px !important;
 }
+
+/* size img slide */
 
 input[type=text], select, textarea {
     width: 100%; /* Full width */
